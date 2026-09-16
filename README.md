@@ -10,6 +10,19 @@ The project demonstrates the practical use of React components, routing, props, 
 
 ![Homepage](./screenshots/homepage.png)
 
+### About Page
+
+![About Page](./screenshots/about-page.png)
+
+### Contact Page
+
+![Contact Page](./screenshots/contact-page.png)
+
+### Cart Page
+
+![Cart Page](./screenshots/cart-page.png)
+
+
 ## 🚀 Features
 
 - Responsive e-commerce homepage
@@ -76,21 +89,17 @@ cd React-Js-Workshop-Project
 
 ### 3. Install dependencies
 
-```bash
 npm install
-```
+
 
 ### 4. Start the development server
-
-```bash
 npm run dev
-```
+
 
 Open the local URL shown in the terminal, usually:
 
-```text
 http://localhost:5173
-```
+
 
 ## 🧠 React Concepts Practiced
 
@@ -130,14 +139,11 @@ Through this project, I improved my understanding of:
 - Developing a functional e-commerce interface
 
 ## 👨‍🏫 Workshop Information
-
 This project was created as part of a 5-day React JS workshop organized by:
-
 - React Rajasthan Community
 - Poornima University
 
 The workshop was conducted under the guidance of:
-
 - Shubham Gupta
 - Kiran Choudhary
 
