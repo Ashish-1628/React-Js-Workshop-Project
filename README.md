@@ -89,17 +89,19 @@ cd React-Js-Workshop-Project
 
 ### 3. Install dependencies
 
+```bash
 npm install
-
+```
 
 ### 4. Start the development server
+```bash
 npm run dev
-
+```
 
 Open the local URL shown in the terminal, usually:
-
+```bash
 http://localhost:5173
-
+```
 
 ## 🧠 React Concepts Practiced
 
